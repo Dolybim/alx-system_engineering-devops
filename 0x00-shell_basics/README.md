@@ -1,1 +1,1 @@
-This is a script for listing contents
+This is a script for going home
