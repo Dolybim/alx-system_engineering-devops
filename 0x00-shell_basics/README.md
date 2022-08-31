@@ -1,1 +1,1 @@
-This is a script for listing hidden files and in long format and numerically
+This script creates a directory in tmp
