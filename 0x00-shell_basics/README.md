@@ -1,1 +1,1 @@
-This script deletes my first directory
+This script changes the working directory to the previous one
