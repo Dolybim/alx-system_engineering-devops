@@ -1,1 +1,1 @@
-This script moves betty to my first directory
+This script deletes betty to my first directory
