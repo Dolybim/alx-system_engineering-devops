@@ -1,1 +1,1 @@
-This is a script for going home
+This is a script for listing in long format
