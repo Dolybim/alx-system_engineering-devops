@@ -1,1 +1,1 @@
-This script changes user to betty
+This script prints the user id of current user
