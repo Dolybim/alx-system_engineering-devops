@@ -1,1 +1,1 @@
-This script adds execute permission to owner and grp owner and read permission to other users
+This script adds execute permission to owner, grp owner and other users
