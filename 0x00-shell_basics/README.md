@@ -1,1 +1,1 @@
-This script lists files in cwd and parent
+This script lists file type
