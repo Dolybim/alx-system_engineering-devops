@@ -1,1 +1,1 @@
-This script creates a symbolic link
+This script copies all html files from the cwd to the parent
