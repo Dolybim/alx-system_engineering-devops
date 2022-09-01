@@ -1,1 +1,1 @@
-This script changes the working directory to the previous one
+This script lists files in cwd and parent
