@@ -1,1 +1,1 @@
-This script creates a directory and adds permissions to it
+This script changes a files group owner
