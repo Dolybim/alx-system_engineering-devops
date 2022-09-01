@@ -1,1 +1,1 @@
-This script adds execute permission to all subdirectories
+This script creates a directory and adds permissions to it
