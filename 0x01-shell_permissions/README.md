@@ -1,1 +1,1 @@
-This script adds some permissions to owner, grp owner and somepermissions to other users
+This script copies the mode of olleh file to hello file
