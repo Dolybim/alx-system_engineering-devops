@@ -1,1 +1,1 @@
-This script adds no permissions to owner, grp owner and all permissions to other users
+This script adds some permissions to owner, grp owner and somepermissions to other users
