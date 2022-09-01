@@ -1,1 +1,1 @@
-This script prints the groups the current user is in
+This script changes file ownership to betty
