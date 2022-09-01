@@ -1,1 +1,1 @@
-This script copies the mode of olleh file to hello file
+This script adds execute permission to all subdirectories
