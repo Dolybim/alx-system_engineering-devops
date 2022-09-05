@@ -1,1 +1,1 @@
-A script that deletes all .js files
+A script that counts all directories in the current directory
