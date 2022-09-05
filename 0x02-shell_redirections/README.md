@@ -1,1 +1,1 @@
-A script that counts all directories in the current directory
+A script that displays the 10 newest in the current directory
