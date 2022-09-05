@@ -1,1 +1,1 @@
-A scripts reverses its output
+A scripts that lists all users and their directories
