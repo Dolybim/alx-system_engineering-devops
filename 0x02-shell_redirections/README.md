@@ -1,1 +1,1 @@
-A scripts that lists all users and their directories
+A scripts that Replace all characters A and c from input to Z and e respectively.
