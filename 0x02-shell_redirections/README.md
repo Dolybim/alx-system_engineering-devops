@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly
+Write a command that finds all empty files
