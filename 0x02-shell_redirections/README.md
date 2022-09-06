@@ -1,1 +1,1 @@
-A scripts that empties files and directories
+Write a script that displays a confused smiley
